@@ -18,7 +18,7 @@
         Name: <input type="text" name="FirstName"/><br>
         Surname: <input type="text" name="Surname"/><br>
         Gender: Male<input type="radio" name=gender> Female<input type="radio" name=gender><br>
-        Age: <input type="text"><br>
+        Age: <input type="number"><br>
         <br>
         <input type="submit">
 
